@@ -1,0 +1,2 @@
+random_extracted_img是自编码器提取特征所用的数据集，由extract_dataset提取
+dataBase是定位手势所提取出的较清晰的最初提取的关键帧
